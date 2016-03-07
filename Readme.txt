@@ -1,0 +1,1 @@
+Testing mode is runnig
